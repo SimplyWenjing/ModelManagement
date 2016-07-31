@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ModelManage"
+  id="myeclipse.1440935888355"
+  context-root="/ModelManage"
+  j2ee-spec="5.0"
+  archive="ModelManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

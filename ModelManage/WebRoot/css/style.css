@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+body{text-align:center;font-size:14px}
+#container{margin:0 auto;width:990px;text-align:left;}
+#content{width:990px;}
+#banner{background:url(../images/banner.jpg) no-repeat;height:195px}
+ul,li{list-style:none}
+a{text-decoration:none;color:#000;}
+a:hover{text-decoration:none; }
+#nav{background:#11396f;height:35px;border:c6c5c5 5px;}
+#nav ul li{float:left;margin-left:18px;margin-top:10px;}
+#nav ul li a{color:#FFF;font-size:14px;}
+.clear{clear:both}
+#left{width:215px;float:left;}
+#link{width:215px;border:#c6c5c5 solid 1px;}
+#link h3{height:36px;background:url(../images/link.gif) no-repeat;}
+#link ul{margin:12px 0px 12px 10px;}
+#link ul li{background:url(../images/tubiao.gif)no-repeat 0.5px;padding-left:15px;height:25px;}
+#friend{background:#f0f0f0;margin:10px 0px 10px 0px;width:215px;height:70px;border:#e3e3e3 1px solid;}
+#fl{margin:10px 45px;}
+#dang{height:98px;width:215px;background:url(images/picture2.gif) no-repeat;margin:8px 0px 8px 0px;}
+
+#right{width:770px;float:right;background:#f0f0f0}
+#right h3{background:url(images/news1.gif) no-repeat;width:768px;height:30px;margin:5px 0px;}
+#top{width:768px;height:240px;}
+#topl{width:276px;height:237px;margin:10px 0px 5px 0px;float:left;}
+#p1{background:url(images/picture.gif) no-repeat;width:276px;height:195px;}
+#p2{background:url(images/wenzi.gif) no-repeat;width:276px;height:42px;}
+#topr{margin:10px 0px 10px 0px;width:490px;height:237px;float:right;}
+#topr ul{padding-left:13px;padding-right:13px;}
+#topr li a{float:left;}
+#topr span{float:right;margin:0px 0px 0px 20px;}
+#topr li{background:url(images/dian.gif) no-repeat 0.5px;height:24px;padding-left:10px;}
+#bottom{width:770px;}
+#infor h3{background:url(images/news2.gif) no-repeat;width:380px;height:39px;}
+#infor{width:380px;float:left;}
+#infor ul{margin:10px 0px;padding-left:5px;padding-right:5px;}
+#infor ul li{background:url(images/dian.gif) no-repeat 0.5px;margin:5px 0px;padding-left:10px;padding-right:10px;}
+#infor ul li a{color:#000;font-size:12px;padding-top:5px;padding-left:15px;}
+#stuwork{width:380px;float:right;}
+#stuwork h3{background:url(images/news3.gif) no-repeat;width:380px;height:39px;}
+#stuwork ul{margin:10px 0px;padding-left:5px;padding-righppx;t:}
+#stuwork ul li{background:url(images/dian.gif) no-repeat 0.5px;margin:5px 0px;padding-left:10px;padding-right:10px;}
+#stuwork ul li a{color:#000;font-size:12px;padding-top:5px;padding-left:15px;}
+#cpy{height:100px;width:990px;background-color:#18395c;text-align:center;}
+#cpy p{font-size:14px;padding-top:40px;color:#fff;}
+#clear1{clear:both;}
+
+
+
